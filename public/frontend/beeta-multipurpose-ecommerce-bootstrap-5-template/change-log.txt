@@ -1,0 +1,27 @@
+VERSION: 1.0.6 —-—-DATE: 10-07-2024
+
+1. Updated: Bootstrap v5.3.3
+
+
+VERSION: 1.0.5 —-—-DATE: 28-11-2022
+
+1. Updated: Bootstrap v5.2.3
+
+Date:    23-11-2021
+Version: 1.0.4
+===================
+1. Updated to latest Bootstrap v5.0.2
+2. Fixed: Minor CSS Issue
+
+
+Version 1.0.3 - 04 July 21 
+============================
+
+1. Update: jQuery Update version
+2. Update: Essential plugins update
+
+
+Version 1.0 - 	24 October 18
+===================================
+
+1. Initial release
